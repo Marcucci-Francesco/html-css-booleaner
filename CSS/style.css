@@ -7,6 +7,10 @@ header {
   font-size: 24px;
 }
 
+header p {
+  font-size: 1.0rem;
+}
+
 .logo {
  width: 12%;
  margin-top: 2%;
@@ -18,7 +22,6 @@ header {
 
 .by {
   color: rgb(139,139,139);
-
 }
 
 .name {
