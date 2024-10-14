@@ -3,14 +3,16 @@ header {
   background-image: url(../img/pattern.png);
   background-color:rgb(48, 131, 208);
   background-size: contain;
-  height: 80px;
+  height: 110px;
 }
 
 .logo {
-  width: 12%;
+  width: 20%;
   margin-top: 2%;
- }
+}
+/* /header*/
 
+/*main*/
 main p {
   font-size: 1.0rem;
 }
@@ -44,8 +46,50 @@ main p {
   width: 640px;
   height: 500px;
 }
-/* /header*/
 
-/*main*/
 .span {
+  background-color: yellow;
+}
+
+.table-1 {
+  text-align: left;
+  column-width: 650px;
+}
+
+.table-2 {
+  text-align: left;
+  column-width: 650px;
+}
+
+.table-3 {
+  text-align: justify;
+  column-width: 500px;
+}
+
+.head {
+  background-color: rgb(80,170,220);
+}
+
+.body-1 {
+  background-color: rgb(190,230,240);
+}
+
+.footer-1 {
+  background-image: url(../img/monitor.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 150px;
+  font-size: 22px;
+  color: white;
+}
+
+.footer-2 {
+  background-image: url(../img/graph.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 150px;
+  font-size: 22px;
+  color: white;
 }
