@@ -1,23 +1,24 @@
+/*header*/
 header {
   background-image: url(../img/pattern.png);
   background-color:rgb(48, 131, 208);
   background-size: contain;
   height: 80px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 24px;
-}
-
-header p {
-  font-size: 1.0rem;
 }
 
 .logo {
- width: 12%;
- margin-top: 2%;
+  width: 12%;
+  margin-top: 2%;
+ }
+
+main p {
+  font-size: 1.0rem;
 }
 
 .titolo {
  text-align: left;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: 47px;
 }
 
 .by {
@@ -42,4 +43,9 @@ header p {
 .img-2 {
   width: 640px;
   height: 500px;
+}
+/* /header*/
+
+/*main*/
+.span {
 }
