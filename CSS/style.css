@@ -1,6 +1,42 @@
-.logo {
+header {
   background-image: url(../img/pattern.png);
   background-color:rgb(48, 131, 208);
   background-size: contain;
-  
+  height: 80px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 24px;
+}
+
+.logo {
+ width: 12%;
+ margin-top: 2%;
+}
+
+.titolo {
+ text-align: left;
+}
+
+.by {
+  color: rgb(139,139,139);
+
+}
+
+.name {
+  color: rgb(48, 131, 208);
+}
+
+.text {
+  font-size: 1.0rem;
+  color: rgb(139,139,139);
+  margin-top: 0%;
+}
+
+.img {
+  width: 735px;
+  height: 500px;
+}
+
+.img-2 {
+  width: 640px;
+  height: 500px;
 }
